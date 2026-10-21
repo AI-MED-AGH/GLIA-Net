@@ -1,0 +1,7 @@
+*.nii*
+*.dcm
+
+# Models
+exp/  
+
+__pycache__/
